@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "My first Chrome Extension",
   "description": "Chrome extension workshop tutorial",
-  "author": "Gabriel",
+  "author": "Gabriel Souza",
   "version": "1",
   "permissions": ["tabs"],
   "icons": {
