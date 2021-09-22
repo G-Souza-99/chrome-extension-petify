@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "My first Chrome Extension",
+  "name": "petify extension by Gabriel Souza",
   "description": "Chrome extension workshop tutorial",
   "author": "Gabriel Souza",
   "version": "1",
@@ -16,11 +16,11 @@
       "matches": [
         "<all_urls>"
       ],
-      "js": ["scripts/cheesify.js"]
+      "js": ["scripts/petify.js"]
     }
   ],
    "browser_action": {
     "default_popup": "popup.html",
-    "default_title": "Welcome to my Cheesify extension"
+    "default_title": "Welcome to my Pet-ify extension"
   }
 }
