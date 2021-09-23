@@ -7,4 +7,4 @@ To use the extension:
 4 - Click Load Unpacked<br>
 5 - Select the file<br>
 
-6 - Now whenever you open a website that has images, you can click on the cheese button to Petify it all!
+6 - Now whenever you open a website that has images, you can click on the pet button to Petify it all!
